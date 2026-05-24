@@ -95,4 +95,9 @@ Share it with friends
 Follow for more learning resources
 💡 “Consistency is more important than intensity in programming.”
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Happy Coding! 🚀🐍
